@@ -28,8 +28,3 @@ make
 • 客户端界面
 # 6. 讨论
 欢迎大家fork本代码，代码中可能存在内存泄漏以及有bug的地方，目前本人还没有测试出来，如果有问题欢迎留言一起讨论
-
-
-git remote add origin https://github.com/asdfghadf/IPv4_musicplayer.git
-
-
